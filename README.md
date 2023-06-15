@@ -10,4 +10,4 @@ I made this project for practice API testing. This is Postman collection with se
 
 ## Important links
 
-* [📚 Simple Books API documentation](./simple-books-api.md)
+* [📚 Simple Books API documentation](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
